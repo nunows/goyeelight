@@ -7,9 +7,19 @@ Control the Yeelight LED Bulb with Go
 
 The "Developer Mode" need to be enabled to discover and operate the device.
 
-### Go
+### Quick Start
 
-Example to control the Yeelight WiFi LED
+#### Install
+
+``` bash
+
+go get github.com/nunows/goyeelight
+
+```
+
+#### Example to control the Yeelight WiFi LED
+
+
 
 ``` go
 package main
